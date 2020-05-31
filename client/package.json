@@ -1,7 +1,7 @@
 {
   "name": "hw3",
   "version": "0.1.0",
-  "proxy": "http://localhost:80",
+  "proxy": "https://notebe.herokuapp.com",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.2",

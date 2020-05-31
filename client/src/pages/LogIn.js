@@ -15,7 +15,7 @@ import Cookies from 'js-cookie'
 import md5 from 'md5'
 
 const options = {
-    withCredentials: true
+    withCredentials: false
 };
 
 const useStyles = makeStyles(theme => ({
