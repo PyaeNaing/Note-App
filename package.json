@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "https://redis.io/download\r - cd to download dirctory\r - `make`\r - `./src/redis-server`\r # Redis windows:\r - For windows : https://github.com/dmajkic/redis/downloads",
+  "main": "gateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "history": "^4.10.1",
+    "hookrouter": "^1.2.3",
+    "http-proxy": "^1.18.0",
+    "mongoose": "^5.7.7",
+    "nodemon": "^1.19.4",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfsu-csc667-fall19/hw3-artistic-monkeys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sfsu-csc667-fall19/hw3-artistic-monkeys/issues"
+  },
+  "homepage": "https://github.com/sfsu-csc667-fall19/hw3-artistic-monkeys#readme"
+}
