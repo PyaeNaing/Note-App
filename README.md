@@ -2,9 +2,10 @@ A simple react app note taking application that stores and loads data for authen
 
 ------------
 Please wait 1 min when first logging in (Needs to wake up database)
-##Server Link: ---
-
-
+##[Server Link]: ---
+[https://pyaenaing.github.io/noteFE/#/
+]
+(https://pyaenaing.github.io/noteFE/#/)
 
 
 
