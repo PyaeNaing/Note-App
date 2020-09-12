@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "history": "^4.10.1",
     "hookrouter": "^1.2.3",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "mongoose": "^5.7.7",
     "nodemon": "^1.19.4",
     "redis": "^2.8.0"
